@@ -14,7 +14,7 @@
         "grunt-sass": "^3.1.0",
         "grunt-spritesmith": "^6.8.0",
         "load-grunt-tasks": "^5.1.0",
-        "node-sass": "^4.13.0",
+        "node-sass": "^7.0.0",
         "grunt-contrib-imagemin": "^3.1.0"
     },
     "scripts": {
